@@ -1,0 +1,1 @@
+double CheckInputNumber(double number);
